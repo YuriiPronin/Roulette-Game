@@ -33,5 +33,5 @@ npm run dev
 
 
 📦 Live Demo & Repo
-- Demo: [буде додано після деплойменту]
-- Repo: [буде додано після пушу]
+- Demo: [https://roulette-game-sable.vercel.app/]
+- Repo: [https://github.com/YuriiPronin/Roulette-Game]
