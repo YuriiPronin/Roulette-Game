@@ -32,6 +32,5 @@ npm install
 npm run dev
 
 
-📦 Live Demo & Repo
+📦 Live Demo
 - Demo: [https://roulette-game-sable.vercel.app/]
-- Repo: [https://github.com/YuriiPronin/Roulette-Game]
